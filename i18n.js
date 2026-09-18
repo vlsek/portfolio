@@ -31,7 +31,7 @@ const translations = {
         p_project1_title: "Personal Life Dashboard",
         p_project1_desc: "A habit, goals and skills tracker with a points system — the thing behind the button above. Configurable daily metrics, long-term goals with stages, progress charts, and a rewards shop.",
         p_project1_tech: "Stack: Supabase (Postgres + Auth), vanilla JS, HTML/CSS",
-        p_footer: "Built with HTML/CSS/JS + Supabase. Preferred contact: Telegram",
+        p_footer: "Built with HTML/CSS/JS + Supabase. Preferred contact: <a href=\"https://t.me/vsekorolev\" target=\"_blank\" rel=\"noopener\">Telegram</a>",
     },
     ru: {
         p_name: "Владимир Королев",
@@ -65,7 +65,7 @@ const translations = {
         p_project1_title: "Личный дашборд жизни",
         p_project1_desc: "Трекер привычек, целей и навыков с системой баллов — то, чем ты пользуешься за кнопкой выше. Настраиваемые метрики дня, долгосрочные цели с этапами, графики прогресса, магазин наград.",
         p_project1_tech: "Стек: Supabase (Postgres + Auth), vanilla JS, HTML/CSS",
-        p_footer: "Собрано на HTML/CSS/JS + Supabase. Предпочтительный способ связи — Telegram",
+        p_footer: "Собрано на HTML/CSS/JS + Supabase. Предпочтительный способ связи — <a href=\"https://t.me/vsekorolev\" target=\"_blank\" rel=\"noopener\">Telegram</a>",
     },
 };
 
