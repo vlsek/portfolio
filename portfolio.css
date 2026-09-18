@@ -123,6 +123,13 @@ body.portfolio {
     border-top: 1px solid var(--p-border);
     text-align: center;
 }
+.p-footer a {
+    color: var(--p-accent);
+    text-decoration: none;
+}
+.p-footer a:hover {
+    text-decoration: underline;
+}
 
 @media (max-width: 640px) {
     .p-nav { padding: 14px 18px; flex-wrap: wrap; gap: 10px; }
